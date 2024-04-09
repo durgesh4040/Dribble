@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dribble/static/css/main.d3fd2a9c.css",
+    "main.js": "/Dribble/static/js/main.18ff8522.js",
+    "static/js/453.79c03529.chunk.js": "/Dribble/static/js/453.79c03529.chunk.js",
+    "index.html": "/Dribble/index.html",
+    "main.d3fd2a9c.css.map": "/Dribble/static/css/main.d3fd2a9c.css.map",
+    "main.18ff8522.js.map": "/Dribble/static/js/main.18ff8522.js.map",
+    "453.79c03529.chunk.js.map": "/Dribble/static/js/453.79c03529.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3fd2a9c.css",
+    "static/js/main.18ff8522.js"
+  ]
+}
